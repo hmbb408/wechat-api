@@ -12,7 +12,7 @@
 
 - **WeChat**：Gaoyc408 ✅
 
-- **Telegram**：[@hmbb408](https://t.me/hmbb408) 📱
+- **Telegram**：[@WorldTreeTech](https://t.me/worldtreetech) 📱
 
 ## 🔧 核心接口列表
 

@@ -1,5 +1,7 @@
 # 世界树科技 - 专业数据采集与接口服务提供商
 
+点击下方官网，注册赠送测试余额~
+
 [**官网**](https://www.worldtreetech.cn/) | [**接口文档**](https://www.worldtreetech.cn/api-docs.html)
 
 ## 📖 关于我们

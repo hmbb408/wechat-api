@@ -2,7 +2,7 @@
 
 点击下方官网，注册赠送测试余额~
 
-[**官网**](https://www.worldtreetech.cn/) | [**接口文档**](https://www.worldtreetech.cn/api-docs.html)
+[**官网**](https://www.worldtreetech.cn/) | [**接口文档**](https://www.worldtreetech.cn/api-docs)
 
 ## 📖 关于我们
 
